@@ -11,3 +11,5 @@ va-api-nvidia.files
 va-api-nvidia.includes
 meson.build.user
 .idea
+.wraplock
+.cache/clangd
